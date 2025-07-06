@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on real time analysis & data related projects<br>👯 I’m looking to collaborate on data engineering & cloud specific domains <br> 
 
 
