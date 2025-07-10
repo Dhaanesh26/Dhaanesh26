@@ -1,13 +1,11 @@
-###### Me!/README.md
-
 ## Dhaanesh S
 ---
 
-####_B.Tech Student_
+#### _B.Tech Student_
 Vellore Institute of Technology
 Chennai, India, 600127
 
-### 🏫 Education
+### Education
 ---
 * 2021.03-_Present_ School of Electronics and Communication Engineering, VIT University B.Tech.
 
@@ -25,12 +23,9 @@ Chennai, India, 600127
 * Data Stack: **dbt**, Apache Kafka, Snowflake  
 * Versioning: **Git**, GitHub, MLops
 
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dhaanesh26&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false)<br/><img width="2124" height="76" alt="image" src="https://github.com/user-attachments/assets/a6c40d1f-37a0-4340-90bc-c59cb1950a95" />
+## 📊 GitHub Stats
 
-[![](https://visitcount.itsvg.in/api?id=Dhaanesh26&icon=9&color=1)](https://visitcount.itsvg.in)<img width="1264" height="38" alt="image" src="https://github.com/user-attachments/assets/1ba6b69f-b261-4d1b-9a2c-b424b63cd244" />
-
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhaanesh26&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false)
 
 ### Projects
 ---
@@ -47,9 +42,9 @@ Chennai, India, 600127
 ### Certifications
 ---
 
-- Google: AI Essentials  
-- Meta: Database Engineer 
-- Amazon: AWS Cloud Pracitioner
+- Google: **AI** Essentials  
+- Meta: **Database** Engineer 
+- Amazon: **AWS Cloud** Pracitioner
 
 ---
 
