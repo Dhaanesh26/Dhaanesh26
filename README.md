@@ -1,5 +1,4 @@
 ## Dhaanesh S
-___
 
 #### _B.Tech Student_
 
@@ -57,7 +56,6 @@ ___
 
 
 ## Let's Connect!
-____
 
 - [LinkedIn](https://linkedin.com/in/dhaanesh-s)
 - [GitHub](https://github.com/Dhaanesh26) 
