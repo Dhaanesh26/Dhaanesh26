@@ -18,7 +18,7 @@ ___
 
 * Genearative AI
 * Large Language Models
-* ETL Pipelines
+* __ETL__ Pipelines
 
 ### Skills
 ___
@@ -48,9 +48,9 @@ ___
 ### Certifications
 ___
 
-- Google: **AI** Essentials  
-- Meta: **Database** Engineer 
-- Amazon: **AWS Cloud** Pracitioner
+- Google: **__AI__** Essentials  
+- Meta: **__Database__** Engineer 
+- Amazon: **__AWS__ Cloud** Pracitioner
 
 
 ### Publications / Blogs (Optional)
