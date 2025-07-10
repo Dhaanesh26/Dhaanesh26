@@ -9,17 +9,19 @@ Vandalur-Kelambakkam rd.
 Chennai, India, 600127
 
 ### Education
-<hr style="height:0.002px; border:none; background-color:#ccc;" />
+___
 
 * 2021.03-_Present_ School of Electronics and Communication Engineering, VIT University B.Tech.
 
 ### 🧪 Research Intrests
+___
 
 * Genearative AI
 * Large Language Models
 * ETL Pipelines
 
 ### Skills
+___
 
 * Languages: **Python**, SQL, JavaScript, Java
 * Frameworks: **PySpark**, Airflow, Pandas, Flask  
@@ -33,6 +35,7 @@ Chennai, India, 600127
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhaanesh26&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false)
 
 ### Projects
+___
 
 **SQL Data Warehouse Project**  
 - Built complete _CRM_ + _ERP_ ETL pipelines using SQL Server + Docker  
@@ -43,6 +46,7 @@ Chennai, India, 600127
 
 
 ### Certifications
+___
 
 - Google: **AI** Essentials  
 - Meta: **Database** Engineer 
@@ -50,11 +54,18 @@ Chennai, India, 600127
 
 
 ### Publications / Blogs (Optional)
+___
 
 - _Coming soon!_
 
+### Academic Club Work
+___
+
+_CYSCOM VIT_ Finance & Operations Member [2022-2025]
+
 
 ## Let's Connect!
+___
 
 - [LinkedIn](https://linkedin.com/in/dhaanesh-s)
 - [GitHub](https://github.com/Dhaanesh26) 
