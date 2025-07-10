@@ -9,7 +9,7 @@ Chennai, India, 600127
 ---
 * 2021.03-_Present_ School of Electronics and Communication Engineering, VIT University B.Tech.
 
-### Research Intrests
+### 🧪 Research Intrests
 ---
 * Genearative AI
 * Large Language Models
@@ -23,7 +23,7 @@ Chennai, India, 600127
 * Data Stack: **dbt**, Apache Kafka, Snowflake  
 * Versioning: **Git**, GitHub, MLops
 
-## 📊 GitHub Stats
+## 🛰️ GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhaanesh26&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false)
 
@@ -48,13 +48,13 @@ Chennai, India, 600127
 
 ---
 
-### 📝 Publications / Blogs (Optional)
+### Publications / Blogs (Optional)
 
 - _Coming soon!_
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 - [LinkedIn](https://linkedin.com/in/dhaanesh-s)
 - [GitHub](https://github.com/Dhaanesh26)
