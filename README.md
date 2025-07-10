@@ -9,6 +9,7 @@ Vandalur-Kelambakkam rd.
 Chennai, India, 600127
 
 ### Education
+<hr style="height:1px; border:none; background-color:#ccc;" />
 
 * 2021.03-_Present_ School of Electronics and Communication Engineering, VIT University B.Tech.
 
