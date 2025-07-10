@@ -3,6 +3,7 @@
 
 #### _B.Tech Student_
 Vellore Institute of Technology
+Vandalur-Kelambakkam rd.
 Chennai, India, 600127
 
 ### Education
@@ -13,6 +14,7 @@ Chennai, India, 600127
 ---
 * Genearative AI
 * Large Language Models
+* ETL Pipelines
 
 ### Skills
 ---
@@ -31,8 +33,8 @@ Chennai, India, 600127
 ---
 
 **SQL Data Warehouse Project**  
-- Built complete CRM + ERP ETL pipelines using SQL Server + Docker  
-- Implemented bronze-silver-gold layered architecture  
+- Built complete _CRM_ + _ERP_ ETL pipelines using SQL Server + Docker  
+- Implemented bronze-silver-gold layered architecture (_MEDALLION ARCHITECTURE_)
 - Used bulk inserts, stored procedures, ETL monitoring  
 
 [__View all projects__](https://github.com/Dhaanesh26?tab=repositories)
@@ -46,20 +48,18 @@ Chennai, India, 600127
 - Meta: **Database** Engineer 
 - Amazon: **AWS Cloud** Pracitioner
 
----
 
 ### Publications / Blogs (Optional)
 
 - _Coming soon!_
 
----
 
 ## Let's Connect!
+____
 
 - [LinkedIn](https://linkedin.com/in/dhaanesh-s)
 - [GitHub](https://github.com/Dhaanesh26)
 
----
 
 
 
