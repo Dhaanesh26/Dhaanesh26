@@ -1,23 +1,25 @@
 ## Dhaanesh S
 
-#### _B.Tech Student_
+#### _B.Tech Student_                                 
 
-Vellore Institute of Technology
+<h1>Yaowei Zheng</h1>
 
-Vandalur-Kelambakkam rd.
+_Ph.D. Student_  
+Beihang University  
+37 Xueyuan Rd., Haidian Dist.  
+Beijing, China, 100191
 
-Chennai, India, 600127
+<!-- Right-aligned box with stats -->
+<div align="right" style="float: right; margin-left: 20px; border: 1px solid #333; padding: 10px; border-radius: 10px; width: 250px; background-color: #0d1117;">
+  
+  <p><strong>⭐ Total Stars Earned:</strong> 62.5k</p>
+  <p><strong>🔄 Total Commits (2025):</strong> 1.5k</p>
+  <p><strong>🔃 Total PRs:</strong> 484</p>
+  <p><strong>❗ Total Issues:</strong> 77</p>
+  <p><strong>📦 Contributed to (last year):</strong> 12</p>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Dhaanesh26&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhaanesh26&layout=compact&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
+</div>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dhaanesh26&color=blue)
 
