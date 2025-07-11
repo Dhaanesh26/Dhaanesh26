@@ -8,6 +8,20 @@ Vandalur-Kelambakkam rd.
 
 Chennai, India, 600127
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Dhaanesh26&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhaanesh26&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Dhaanesh26&color=blue)
+
+
 ### Education
 ___
 
