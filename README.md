@@ -2,23 +2,11 @@
 
 #### _B.Tech Student_                                 
 
-<h1>Yaowei Zheng</h1>
+Vit University
 
-_Ph.D. Student_  
-Beihang University  
-37 Xueyuan Rd., Haidian Dist.  
-Beijing, China, 100191
+Vandalur-Kelambakkam rd.
 
-<!-- Right-aligned box with stats -->
-<div align="right" style="float: right; margin-left: 20px; border: 1px solid #333; padding: 10px; border-radius: 10px; width: 250px; background-color: #0d1117;">
-  
-  <p><strong>⭐ Total Stars Earned:</strong> 62.5k</p>
-  <p><strong>🔄 Total Commits (2025):</strong> 1.5k</p>
-  <p><strong>🔃 Total PRs:</strong> 484</p>
-  <p><strong>❗ Total Issues:</strong> 77</p>
-  <p><strong>📦 Contributed to (last year):</strong> 12</p>
-
-</div>
+Chennai, India, 600127
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dhaanesh26&color=blue)
