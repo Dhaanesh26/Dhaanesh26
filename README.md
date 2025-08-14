@@ -1,5 +1,13 @@
 ## Dhaanesh S
 
+#### _Digital Intern @ Exavalu Inc_ 
+
+Eco Intelligent Park
+
+EM-Block, Sector 5
+
+Kolkata, India, 700091
+
 #### _B.Tech Student_                                 
 
 Vit University
@@ -15,7 +23,7 @@ Chennai, India, 600127
 ### Education
 ___
 
-* 2021.03-_Present_ School of Electronics and Communication Engineering, VIT University B.Tech.
+* 2021.03 - 2025.08 School of Electronics and Communication Engineering, VIT University B.Tech.
 
 ### 🧪 Research Intrests
 ___
