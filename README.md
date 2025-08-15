@@ -68,7 +68,8 @@ ___
 ### Publications / Blogs (Optional)
 ___
 
-- _Coming soon!_
+- _Follow my Medium Article for skill updates & Certifications in DATA related field_
+- https://medium.com/@dhaanesh.suresh
 
 ### Academic Club Work
 ___
