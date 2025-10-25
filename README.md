@@ -1,20 +1,12 @@
 ## Dhaanesh S
 
-#### _Digital Intern @ Exavalu Inc_ 
+#### _Data Engineering Intern @ Exavalu Inc_ 
 
 Eco Intelligent Park
 
 EM-Block, Sector 5
 
 Kolkata, India, 700091
-
-#### _B.Tech Student_                                 
-
-Vit University
-
-Vandalur-Kelambakkam rd.
-
-Chennai, India, 600127
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dhaanesh26&color=blue)
@@ -64,12 +56,6 @@ ___
 - Meta: **__Database__** Engineer 
 - Amazon: **__AWS__ Cloud** Pracitioner
 
-
-### Publications / Blogs (Optional)
-___
-
-- Follow my Medium Article for skill updates & Certifications in DATA related field
-- https://medium.com/@dhaanesh.suresh
 
 ### Academic Club Work
 ___
