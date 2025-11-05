@@ -142,7 +142,6 @@ A complete **end-to-end ETL and Data Warehouse solution** integrating **CRM and 
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhaanesh26&show_icons=true&theme=transparent&hide_border=false&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhaanesh26&theme=transparent&hide_border=false" />
 </p>
 
 <p align="center">
