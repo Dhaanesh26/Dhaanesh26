@@ -1,10 +1,10 @@
-<!-- HEADER -->
+<!-- PROFESSIONAL HEADER -->
 <p align="center">
-  <img src="https://github.com/Dhaanesh26/Dhaanesh26/blob/main/be994c48-9200-4c61-a79f-34dba762c912.png" width="100%" alt="Dhaanesh Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0A66C2&text=Dhaanesh%20S%20|%20Data%20Engineering%20Intern%20@%20Exavalu%20Inc&fontColor=ffffff&fontSize=26&fontAlignY=38&desc=Building%20Scalable%20and%20Intelligent%20Data%20Systems&descSize=16&descAlignY=55" alt="Header Banner"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=26&duration=3500&pause=600&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi,+I'm+Dhaanesh+S;Data+Engineering+Intern+@+Exavalu+Inc;Designing+Scalable+and+Intelligent+Data+Systems;Turning+Raw+Data+into+Business+Insights" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3500&pause=600&color=0A66C2&center=true&vCenter=true&width=600&lines=Turning+Raw+Data+into+Business+Insights;Designing+Modern+Data+Pipelines;Engineering+Cloud-Native+Analytics+Solutions" alt="Typing Animation" />
 </p>
 
 ---
@@ -12,12 +12,12 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Developer Animation">
+  <img src="https://cdn.dribbble.com/users/32512/screenshots/16898088/media/97a79ed04a83d5d42da1f1ff629c7d65.gif" width="360" alt="Data Engineer Animated Visualization">
 </p>
 
 <p align="center">
   I’m a <b>Data Engineering Intern at Exavalu Inc</b>, focused on developing <b>scalable</b>, <b>automated</b>, and <b>cloud-native</b> data solutions.  
-  I love working on <b>data pipelines</b>, <b>ETL orchestration</b>, and <b>analytics automation</b> that drive real-world impact.
+  My work spans across <b>ETL pipelines</b>, <b>data orchestration</b>, and <b>real-time processing frameworks</b> to drive analytics innovation.
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 <h2 align="center">Education</h2>
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/940/940649.png" width="70" alt="Education Icon"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/79a9f5b2b96a6d758d31b0b1d3c4a733.gif" width="260" alt="Education Animation">
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@
 <h2 align="center">Research Interests</h2>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1787323/screenshots/14442824/media/72c9a6e6a401bf37c1f437ba1e4a9f52.gif" width="220" alt="AI Research Animation"/>
+  <img src="https://cdn.dribbble.com/users/1787323/screenshots/14442824/media/72c9a6e6a401bf37c1f437ba1e4a9f52.gif" width="200" alt="AI Research Animation"/>
 </p>
 
 <ul align="center">
@@ -111,16 +111,16 @@
 <h2 align="center">Featured Project</h2>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/5976/screenshots/17041887/media/30a8b0da38e2bfa99cfdf2d3e03e6aa5.gif" width="380" alt="Data Flow Animation">
+  <img src="https://cdn.dribbble.com/users/692722/screenshots/15613035/media/92e78a8d56c37c46083d6e3c09a847d9.gif" width="400" alt="Data Engineering Animation">
 </p>
 
 ### SQL Data Warehouse Project
-An enterprise-grade **ETL system** integrating **CRM and ERP data** using **SQL Server**, **Docker**, and **ETL automation**.
+A complete **end-to-end ETL and Data Warehouse solution** integrating **CRM and ERP systems** using **SQL Server**, **Docker**, and **Airflow**.
 
 **Highlights:**
-- Developed **Medallion Architecture (Bronze–Silver–Gold layers)**  
-- Built **ETL ingestion automation** with error handling & monitoring  
-- Designed **parameterized stored procedures** for large-volume data processing  
+- Designed and deployed **Medallion Architecture (Bronze–Silver–Gold layers)**  
+- Automated **ETL ingestion** and **data quality validation**  
+- Developed **parameterized stored procedures** for high-volume datasets  
 
 🔗 [**View All Projects**](https://github.com/Dhaanesh26?tab=repositories)
 
@@ -129,7 +129,7 @@ An enterprise-grade **ETL system** integrating **CRM and ERP data** using **SQL 
 <h2 align="center">Certifications</h2>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1003944/screenshots/14726547/media/771f96df4d8032e8b46f5d22ebf7a61d.gif" width="180" alt="Certificate Animation">
+  <img src="https://cdn.dribbble.com/users/1959912/screenshots/6198125/media/b544a4da095f53f2eacb9e322a32196e.gif" width="160" alt="Certifications Animation">
 </p>
 
 - Google — **AI Essentials**  
