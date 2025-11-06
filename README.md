@@ -1,6 +1,6 @@
 <!-- PROFESSIONAL HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0A66C2&text=Dhaanesh%20S%20|%20Data%20Engineering%20Intern%20@%20Exavalu%20Inc&fontColor=ffffff&fontSize=26&fontAlignY=38&desc=Building%20Scalable%20and%20Intelligent%20Data%20Systems&descSize=16&descAlignY=55" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=E30613&text=Dhaanesh%20S%20|%20Data%20Engineering%20Intern%20@%20Exavalu%20Inc&fontColor=FFFFFF&fontSize=26&fontAlignY=38&desc=Building%20Scalable%20and%20Intelligent%20Data%20Systems&descSize=16&descAlignY=55" alt="Header Banner"/>
 </p>
 
 <p align="center">
@@ -12,7 +12,9 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/32512/screenshots/16898088/media/97a79ed04a83d5d42da1f1ff629c7d65.gif" width="360" alt="Data Engineer Animated Visualization">
+  <a href="https://www.pinterest.com/pin/786300416217257723/" target="_blank">
+    <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="345" alt="Data Engineer GIF from Pinterest">
+  </a>
 </p>
 
 <p align="center">
@@ -170,5 +172,5 @@ A complete **end-to-end ETL and Data Warehouse solution** integrating **CRM and 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E30613&height=80&section=footer"/>
 </p>
