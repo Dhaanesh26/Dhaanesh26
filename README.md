@@ -27,7 +27,7 @@
   <br/>
   <b>Exploring:</b> Generative AI · Large Language Models · MLOps  
   <br/>
-  <b>Location:</b> Kolkata, India
+  <b>Location:</b> Chennai, India
 </p>
 
 ---
