@@ -1,6 +1,6 @@
 <!-- PROFESSIONAL HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=E30613&text=Dhaanesh%20S%20|%20Associate%20Developer20@%20Exavalu%20Inc&fontColor=FFFFFF&fontSize=26&fontAlignY=38&desc=Building%20Scalable%20and%20Intelligent%20Data%20Systems&descSize=16&descAlignY=55" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=E30613&text=Dhaanesh%20S%20|%20Associate%20Developer20@%20Exavalu Inc&fontColor=FFFFFF&fontSize=26&fontAlignY=38&desc=Building%20Scalable%20and%20Intelligent%20Data%20Systems&descSize=16&descAlignY=55" alt="Header Banner"/>
 </p>
 
 <p align="center">
