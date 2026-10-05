@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  I’m a <b>Data Engineering Intern at Exavalu Inc</b>, focused on developing <b>scalable</b>, <b>automated</b>, and <b>cloud-native</b> data solutions.  
+  I’m a <b>Associate Developer at Exavalu Inc</b>, focused on developing <b>scalable</b>, <b>automated</b>, and <b>cloud-native</b> data solutions.  
   My work spans across <b>ETL pipelines</b>, <b>data orchestration</b>, and <b>real-time processing frameworks</b> to drive analytics innovation.
 </p>
 
